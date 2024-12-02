@@ -1,0 +1,45 @@
+.f-c1 {
+    color: rgb(206, 122, 13); 
+}
+
+.f-s {
+    font-size: 18px;
+    color: rgb(34, 23, 122);
+}
+
+.f-c2 {
+    color: rgb(42, 51, 53); 
+}
+
+body {
+    background-color: rgba(204, 227, 247, 0.9); 
+    font-family: 'Arial', sans-serif; 
+}
+
+p {
+    font-size: 22px; 
+}
+
+h1 {
+    font-size: 40px; 
+    color: rgb(8, 5, 1);
+}
+hr {
+    border: 1px solid rgb(206, 122, 13); 
+    margin: 20px 0;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);/
+    }
+img {
+    width: 70%;
+    height: auto;
+object-fit: cover;
+
+}
+
+
